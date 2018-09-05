@@ -4,37 +4,18 @@
       <catalog_item gender="Men's">
          <item_number>QWZ5671</item_number>
          <price>39.95</price>
-         <size description="Medium">
-            <color_swatch image="red_cardigan.jpg">Red</color_swatch>
-            <color_swatch image="burgundy_cardigan.jpg">Burgundy</color_swatch>
-         </size>
-         <size description="Large">
-            <color_swatch image="red_cardigan.jpg">Red</color_swatch>
-            <color_swatch image="burgundy_cardigan.jpg">Burgundy</color_swatch>
-         </size>
-      </catalog_item>
+            <Medium image="red_cardigan.jpg">Red</Medium>
+            <Large image="red_cardigan.jpg">Red</color_swatch>
+               </catalog_item>
       <catalog_item gender="Women's">
          <item_number>RRX9856</item_number>
          <price>42.50</price>
-         <size description="Small">
-            <color_swatch image="red_cardigan.jpg">Red</color_swatch>
-            <color_swatch image="navy_cardigan.jpg">Navy</color_swatch>
-            <color_swatch image="burgundy_cardigan.jpg">Burgundy</color_swatch>
-         </size>
-         <size description="Medium">
-            <color_swatch image="red_cardigan.jpg">Red</color_swatch>
-            <color_swatch image="navy_cardigan.jpg">Navy</color_swatch>
-            <color_swatch image="burgundy_cardigan.jpg">Burgundy</color_swatch>
-            <color_swatch image="black_cardigan.jpg">Black</color_swatch>
-         </size>
-         <size description="Large">
-            <color_swatch image="navy_cardigan.jpg">Navy</color_swatch>
-            <color_swatch image="black_cardigan.jpg">Black</color_swatch>
-         </size>
-         <size description="Extra Large">
-            <color_swatch image="burgundy_cardigan.jpg">Burgundy</color_swatch>
-            <color_swatch image="black_cardigan.jpg">Black</color_swatch>
-         </size>
+          <Small image="red_cardigan.jpg">Red</Small>
+          <Large image="red_cardigan.jpg">Navy</color_swatch>
+         
+          <Medium image="red_cardigan.jpg">Red</Medium>
+          <ExtraLarge image="red_cardigan.jpg">Burgundy</ExtraLarge>
+        
       </catalog_item>
    </product>
 </catalog>
