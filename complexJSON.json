@@ -6,7 +6,27 @@
 
                      { "firstName" : "Mary",  
                        "lastName"  : "Smith",
-                        "age"      : 32 }
+                        "age"      : 32 },
+						{ 
+						  "account" : [   
+											 { "firstName" : "John1",  
+											   "lastName"  : "Doe1",
+											   "age"       : 231 },
+
+											 { "firstName" : "Mary1",  
+											   "lastName"  : "Smith1",
+												"age"      : 321 }
+										 ],                            
+						  "sale"      : [ 
+											 { "firstName" : "Sally2", 
+											   "lastName"  : "Green2",
+												"age"      : 272 },
+
+											 { "firstName" : "Jim2",   
+											   "lastName"  : "Galley2",
+											   "age"       : 412 }
+										 ] 
+						} 
                  ],                            
   "sales"      : [ 
                      { "firstName" : "Sally", 
