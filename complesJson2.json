@@ -1,0 +1,659 @@
+{
+    "code": "0005",
+    "message": "Success",
+    "records": {
+        "sto": "5760-m",
+        "data": [
+            {
+                "title": "TASKS",
+                "daterange": "THIS MONTH",
+                "records": [
+                    {
+                        "leadId": "82222",
+                        "dueTime": "13:00:29",
+                        "custName": "Ramya .",
+                        "dueDate": "07-09-2018",
+                        "ownrName": "Daniel WS",
+                        "subject": "Follow Up 2 - Due date",
+                        "description": " Follow Up 2- Due date",
+                        "tskGUID": "5baa0e3e-a6b1-e811-8110-00155d010302",
+                        "tskStatus": {
+                            "OptionSetList": [],
+                            "Info": "Open"
+                        },
+                        "statusColour": "0000FF",
+                        "priority": {
+                            "OptionSetList": [],
+                            "Info": "Normal"
+                        },
+                        "taskType": {
+                            "OptionSetList": [],
+                            "Info": "Task"
+                        }
+                    },
+                    {
+                        "leadId": "82222",
+                        "dueTime": "00:00:00",
+                        "custName": "Ramya .",
+                        "dueDate": "07-09-2018",
+                        "ownrName": "Daniel WS",
+                        "subject": "Follow Up 1 - Due date",
+                        "description": "Follow Up 1 -Due date",
+                        "tskGUID": "5542ccd1-a5b1-e811-8110-00155d010302",
+                        "tskStatus": {
+                            "OptionSetList": [],
+                            "Info": "Completed"
+                        },
+                        "statusColour": "008000",
+                        "priority": {
+                            "OptionSetList": [],
+                            "Info": "Normal"
+                        },
+                        "taskType": {
+                            "OptionSetList": [],
+                            "Info": "Task"
+                        }
+                    },
+                    {
+                        "leadId": "82220",
+                        "dueTime": "03:10:00",
+                        "custName": "Test Customer",
+                        "dueDate": "05-09-2018",
+                        "ownrName": "Daniel WS",
+                        "subject": "test task",
+                        "description": "task",
+                        "tskGUID": "77e59066-dbb0-e811-8110-00155d010302",
+                        "tskStatus": {
+                            "OptionSetList": [],
+                            "Info": "Open"
+                        },
+                        "statusColour": "0000FF",
+                        "priority": {
+                            "OptionSetList": [],
+                            "Info": "Normal"
+                        },
+                        "taskType": {
+                            "OptionSetList": [],
+                            "Info": "Task"
+                        }
+                    },
+                    {
+                        "leadId": "14190",
+                        "dueTime": "01:00:00",
+                        "custName": "Sindhuja Rao",
+                        "dueDate": "05-09-2018",
+                        "ownrName": "Daniel WS",
+                        "subject": "testing task",
+                        "description": "testing task",
+                        "tskGUID": "8eeb718a-d1b0-e811-8110-00155d010302",
+                        "tskStatus": {
+                            "OptionSetList": [],
+                            "Info": "Open"
+                        },
+                        "statusColour": "0000FF",
+                        "priority": {
+                            "OptionSetList": [],
+                            "Info": "Low"
+                        },
+                        "taskType": {
+                            "OptionSetList": [],
+                            "Info": "Task"
+                        }
+                    },
+                    {
+                        "leadId": "82208",
+                        "dueTime": "11:30:00",
+                        "custName": "A Guha Guha",
+                        "dueDate": "05-09-2018",
+                        "ownrName": "Daniel WS",
+                        "subject": "task anwar",
+                        "description": "task anwar",
+                        "tskGUID": "9e65fd5f-d0b0-e811-8110-00155d010302",
+                        "tskStatus": {
+                            "OptionSetList": [],
+                            "Info": "Open"
+                        },
+                        "statusColour": "0000FF",
+                        "priority": {
+                            "OptionSetList": [],
+                            "Info": "Low"
+                        },
+                        "taskType": {
+                            "OptionSetList": [],
+                            "Info": "Task"
+                        }
+                    },
+                    {
+                        "leadId": "82208",
+                        "dueTime": "00:00:00",
+                        "custName": "A Guha Guha",
+                        "dueDate": "06-09-2018",
+                        "ownrName": "Daniel WS",
+                        "subject": "Follow Up 4 - Due date",
+                        "description": "Follow Up 4 - Due date",
+                        "tskGUID": "6cba7e47-cfb0-e811-8110-00155d010302",
+                        "tskStatus": {
+                            "OptionSetList": [],
+                            "Info": "Open"
+                        },
+                        "statusColour": "0000FF",
+                        "priority": {
+                            "OptionSetList": [],
+                            "Info": "Normal"
+                        },
+                        "taskType": {
+                            "OptionSetList": [],
+                            "Info": "Task"
+                        }
+                    },
+                    {
+                        "leadId": "82216",
+                        "dueTime": "08:30:00",
+                        "custName": "Hareesh kumar",
+                        "dueDate": "05-09-2018",
+                        "ownrName": "Daniel WS",
+                        "subject": "Follow Up 3 - Due date",
+                        "description": "Follow Up 3 - Due date",
+                        "tskGUID": "1b2e4f3b-3eb0-e811-8110-00155d010302",
+                        "tskStatus": {
+                            "OptionSetList": [],
+                            "Info": "Completed"
+                        },
+                        "statusColour": "008000",
+                        "priority": {
+                            "OptionSetList": [],
+                            "Info": "Normal"
+                        },
+                        "taskType": {
+                            "OptionSetList": [],
+                            "Info": "Task"
+                        }
+                    },
+                    {
+                        "leadId": "82216",
+                        "dueTime": "01:00:00",
+                        "custName": "Hareesh kumar",
+                        "dueDate": "04-09-2018",
+                        "ownrName": "Daniel WS",
+                        "subject": "a wzr tadk subj",
+                        "description": "cfgygg",
+                        "tskGUID": "4f254902-27b0-e811-8110-00155d010302",
+                        "tskStatus": {
+                            "OptionSetList": [],
+                            "Info": "Open"
+                        },
+                        "statusColour": "0000FF",
+                        "priority": {
+                            "OptionSetList": [],
+                            "Info": "Low"
+                        },
+                        "taskType": {
+                            "OptionSetList": [],
+                            "Info": "Task"
+                        }
+                    },
+                    {
+                        "leadId": "82216",
+                        "dueTime": "00:00:00",
+                        "custName": "Hareesh kumar",
+                        "dueDate": "05-09-2018",
+                        "ownrName": "Daniel WS",
+                        "subject": "Follow Up 3 - Due date",
+                        "description": "Follow Up 3 - Due date",
+                        "tskGUID": "0e585a2b-0eb0-e811-8110-00155d010302",
+                        "tskStatus": {
+                            "OptionSetList": [],
+                            "Info": "Open"
+                        },
+                        "statusColour": "0000FF",
+                        "priority": {
+                            "OptionSetList": [],
+                            "Info": "Normal"
+                        },
+                        "taskType": {
+                            "OptionSetList": [],
+                            "Info": "Task"
+                        }
+                    },
+                    {
+                        "leadId": "82220",
+                        "dueTime": "12:16:07",
+                        "custName": "Test Customer",
+                        "dueDate": "05-09-2018",
+                        "ownrName": "Daniel WS",
+                        "subject": "Follow Up 5 - Due date",
+                        "description": "Follow Up 5 -Due date",
+                        "tskGUID": "a2c70ab1-0db0-e811-8110-00155d010302",
+                        "tskStatus": {
+                            "OptionSetList": [],
+                            "Info": "Open"
+                        },
+                        "statusColour": "0000FF",
+                        "priority": {
+                            "OptionSetList": [],
+                            "Info": "Normal"
+                        },
+                        "taskType": {
+                            "OptionSetList": [],
+                            "Info": "Task"
+                        }
+                    },
+                    {
+                        "leadId": "82220",
+                        "dueTime": "00:00:00",
+                        "custName": "Test Customer",
+                        "dueDate": "04-09-2018",
+                        "ownrName": "Daniel WS",
+                        "subject": "email anwar",
+                        "description": "email anwar ",
+                        "tskGUID": "d74ca076-0db0-e811-8110-00155d010302",
+                        "tskStatus": {
+                            "OptionSetList": [],
+                            "Info": "Open"
+                        },
+                        "statusColour": "0000FF",
+                        "priority": {
+                            "OptionSetList": [],
+                            "Info": "Low"
+                        },
+                        "taskType": {
+                            "OptionSetList": [],
+                            "Info": "Task"
+                        }
+                    },
+                    {
+                        "leadId": "82220",
+                        "dueTime": "00:00:00",
+                        "custName": "Test Customer",
+                        "dueDate": "04-09-2018",
+                        "ownrName": "Daniel WS",
+                        "subject": "anwar",
+                        "description": "anwar",
+                        "tskGUID": "1717ebd4-0cb0-e811-8110-00155d010302",
+                        "tskStatus": {
+                            "OptionSetList": [],
+                            "Info": "Completed"
+                        },
+                        "statusColour": "008000",
+                        "priority": {
+                            "OptionSetList": [],
+                            "Info": "Low"
+                        },
+                        "taskType": {
+                            "OptionSetList": [],
+                            "Info": "Task"
+                        }
+                    },
+                    {
+                        "leadId": "82220",
+                        "dueTime": "00:00:00",
+                        "custName": "Test Customer",
+                        "dueDate": "05-09-2018",
+                        "ownrName": "Daniel WS",
+                        "subject": "Follow Up 4 - Due date",
+                        "description": "Follow Up 4 - Due date",
+                        "tskGUID": "adf6c777-0cb0-e811-8110-00155d010302",
+                        "tskStatus": {
+                            "OptionSetList": [],
+                            "Info": "Completed"
+                        },
+                        "statusColour": "008000",
+                        "priority": {
+                            "OptionSetList": [],
+                            "Info": "Normal"
+                        },
+                        "taskType": {
+                            "OptionSetList": [],
+                            "Info": "Task"
+                        }
+                    },
+                    {
+                        "leadId": "82220",
+                        "dueTime": "03:00:00",
+                        "custName": "Test Customer",
+                        "dueDate": "04-09-2018",
+                        "ownrName": "Daniel WS",
+                        "subject": "test",
+                        "description": "test app",
+                        "tskGUID": "049f2895-abaf-e811-8110-00155d010302",
+                        "tskStatus": {
+                            "OptionSetList": [],
+                            "Info": "Completed"
+                        },
+                        "statusColour": "008000",
+                        "priority": {
+                            "OptionSetList": [],
+                            "Info": "Normal"
+                        },
+                        "taskType": {
+                            "OptionSetList": [],
+                            "Info": "Task"
+                        }
+                    },
+                    {
+                        "leadId": "82219",
+                        "dueTime": "04:00:00",
+                        "custName": "A Mohan Rao",
+                        "dueDate": "29-09-2018",
+                        "ownrName": "Daniel WS",
+                        "subject": "Test",
+                        "description": "Test",
+                        "tskGUID": "1bb6da30-a8af-e811-8110-00155d010302",
+                        "tskStatus": {
+                            "OptionSetList": [],
+                            "Info": "Canceled"
+                        },
+                        "statusColour": "FF0000",
+                        "priority": {
+                            "OptionSetList": [],
+                            "Info": "Normal"
+                        },
+                        "taskType": {
+                            "OptionSetList": [],
+                            "Info": "Task"
+                        }
+                    },
+                    {
+                        "leadId": "82207",
+                        "dueTime": "00:00:00",
+                        "custName": "A K",
+                        "dueDate": "03-09-2018",
+                        "ownrName": "Daniel WS",
+                        "subject": "fgggg",
+                        "description": "gggg",
+                        "tskGUID": "bc91b305-87af-e811-8110-00155d010302",
+                        "tskStatus": {
+                            "OptionSetList": [],
+                            "Info": "Completed"
+                        },
+                        "statusColour": "008000",
+                        "priority": {
+                            "OptionSetList": [],
+                            "Info": "Low"
+                        },
+                        "taskType": {
+                            "OptionSetList": [],
+                            "Info": "Task"
+                        }
+                    },
+                    {
+                        "leadId": "82199",
+                        "dueTime": "00:00:00",
+                        "custName": ".Ganesh Prabhala",
+                        "dueDate": "03-09-2018",
+                        "ownrName": "Daniel WS",
+                        "subject": "hrbrb",
+                        "description": "bdbdb\n",
+                        "tskGUID": "55d00238-84af-e811-8110-00155d010302",
+                        "tskStatus": {
+                            "OptionSetList": [],
+                            "Info": "Open"
+                        },
+                        "statusColour": "0000FF",
+                        "priority": {
+                            "OptionSetList": [],
+                            "Info": "Low"
+                        },
+                        "taskType": {
+                            "OptionSetList": [],
+                            "Info": "Task"
+                        }
+                    },
+                    {
+                        "leadId": "82207",
+                        "dueTime": "14:50:00",
+                        "custName": "A K",
+                        "dueDate": "03-09-2018",
+                        "ownrName": "Daniel WS",
+                        "subject": "Test phone call reminder ",
+                        "description": "Test phone call reminder",
+                        "tskGUID": "4ac78194-58af-e811-8110-00155d010302",
+                        "tskStatus": {
+                            "OptionSetList": [],
+                            "Info": "Completed"
+                        },
+                        "statusColour": "008000",
+                        "priority": {
+                            "OptionSetList": [],
+                            "Info": "Normal"
+                        },
+                        "taskType": {
+                            "OptionSetList": [],
+                            "Info": "PhoneCall"
+                        }
+                    },
+                    {
+                        "leadId": "82220",
+                        "dueTime": "00:00:00",
+                        "custName": "Test Customer",
+                        "dueDate": "04-09-2018",
+                        "ownrName": "Daniel WS",
+                        "subject": "test sms task",
+                        "description": "test sms task",
+                        "tskGUID": "6949369f-38af-e811-8110-00155d010302",
+                        "tskStatus": {
+                            "OptionSetList": [],
+                            "Info": "Completed"
+                        },
+                        "statusColour": "008000",
+                        "priority": {
+                            "OptionSetList": [],
+                            "Info": "Normal"
+                        },
+                        "taskType": {
+                            "OptionSetList": [],
+                            "Info": "Task"
+                        }
+                    },
+                    {
+                        "leadId": "82219",
+                        "dueTime": "00:00:00",
+                        "custName": "A Mohan Rao",
+                        "dueDate": "07-09-2018",
+                        "ownrName": "Daniel WS",
+                        "subject": "Appo",
+                        "description": "Appoin",
+                        "tskGUID": "86e6d0b8-a3ae-e811-8110-00155d010302",
+                        "tskStatus": {
+                            "OptionSetList": [],
+                            "Info": "Completed"
+                        },
+                        "statusColour": "008000",
+                        "priority": {
+                            "OptionSetList": [],
+                            "Info": "High"
+                        },
+                        "taskType": {
+                            "OptionSetList": [],
+                            "Info": "Task"
+                        }
+                    },
+                    {
+                        "leadId": "82220",
+                        "dueTime": "00:00:00",
+                        "custName": "Test Customer",
+                        "dueDate": "01-09-2018",
+                        "ownrName": "Daniel WS",
+                        "subject": "Follow Up 3 - Due date",
+                        "description": "Follow Up 3 - Due date",
+                        "tskGUID": "c7901426-9cac-e811-8110-00155d010302",
+                        "tskStatus": {
+                            "OptionSetList": [],
+                            "Info": "Completed"
+                        },
+                        "statusColour": "008000",
+                        "priority": {
+                            "OptionSetList": [],
+                            "Info": "Normal"
+                        },
+                        "taskType": {
+                            "OptionSetList": [],
+                            "Info": "Task"
+                        }
+                    },
+                    {
+                        "leadId": "82220",
+                        "dueTime": "00:00:00",
+                        "custName": "Test Customer",
+                        "dueDate": "01-09-2018",
+                        "ownrName": "Daniel WS",
+                        "subject": "Follow Up 3 - Due date",
+                        "description": "Follow Up 3 - Due date",
+                        "tskGUID": "c8901426-9cac-e811-8110-00155d010302",
+                        "tskStatus": {
+                            "OptionSetList": [],
+                            "Info": "Completed"
+                        },
+                        "statusColour": "008000",
+                        "priority": {
+                            "OptionSetList": [],
+                            "Info": "Normal"
+                        },
+                        "taskType": {
+                            "OptionSetList": [],
+                            "Info": "Task"
+                        }
+                    },
+                    {
+                        "leadId": "82219",
+                        "dueTime": "00:00:00",
+                        "custName": "A Mohan Rao",
+                        "dueDate": "30-09-2018",
+                        "ownrName": "Daniel WS",
+                        "subject": "Follow Up 5 - Due date",
+                        "description": "Follow Up 5 -Due date",
+                        "tskGUID": "7060a57d-aeab-e811-8110-00155d010302",
+                        "tskStatus": {
+                            "OptionSetList": [],
+                            "Info": "Completed"
+                        },
+                        "statusColour": "008000",
+                        "priority": {
+                            "OptionSetList": [],
+                            "Info": "Normal"
+                        },
+                        "taskType": {
+                            "OptionSetList": [],
+                            "Info": "Task"
+                        }
+                    },
+                    {
+                        "leadId": "82219",
+                        "dueTime": "00:00:00",
+                        "custName": "A Mohan Rao",
+                        "dueDate": "30-09-2018",
+                        "ownrName": "Daniel WS",
+                        "subject": "Follow Up 4 - Due date",
+                        "description": "Follow Up 4 - Due date",
+                        "tskGUID": "f21ed187-acab-e811-8110-00155d010302",
+                        "tskStatus": {
+                            "OptionSetList": [],
+                            "Info": "Completed"
+                        },
+                        "statusColour": "008000",
+                        "priority": {
+                            "OptionSetList": [],
+                            "Info": "Normal"
+                        },
+                        "taskType": {
+                            "OptionSetList": [],
+                            "Info": ""
+                        }
+                    },
+                    {
+                        "leadId": "82219",
+                        "dueTime": "00:00:00",
+                        "custName": "A Mohan Rao",
+                        "dueDate": "30-09-2018",
+                        "ownrName": "Daniel WS",
+                        "subject": "Follow Up 3 - Due date",
+                        "description": "Follow Up 3 - Due date",
+                        "tskGUID": "41162e40-abab-e811-8110-00155d010302",
+                        "tskStatus": {
+                            "OptionSetList": [],
+                            "Info": "Completed"
+                        },
+                        "statusColour": "008000",
+                        "priority": {
+                            "OptionSetList": [],
+                            "Info": "Normal"
+                        },
+                        "taskType": {
+                            "OptionSetList": [],
+                            "Info": ""
+                        }
+                    },
+                    {
+                        "leadId": "82219",
+                        "dueTime": "00:00:00",
+                        "custName": "A Mohan Rao",
+                        "dueDate": "30-09-2018",
+                        "ownrName": "Daniel WS",
+                        "subject": "Follow Up 2 - Due date",
+                        "description": " Follow Up 2- Due date",
+                        "tskGUID": "523b6118-aaab-e811-8110-00155d010302",
+                        "tskStatus": {
+                            "OptionSetList": [],
+                            "Info": "Completed"
+                        },
+                        "statusColour": "008000",
+                        "priority": {
+                            "OptionSetList": [],
+                            "Info": "Normal"
+                        },
+                        "taskType": {
+                            "OptionSetList": [],
+                            "Info": ""
+                        }
+                    },
+                    {
+                        "leadId": "82219",
+                        "dueTime": "00:00:00",
+                        "custName": "A Mohan Rao",
+                        "dueDate": "30-09-2018",
+                        "ownrName": "Daniel WS",
+                        "subject": "Follow Up 1 - Due date",
+                        "description": "Follow Up 1 -Due date",
+                        "tskGUID": "d4016795-a9ab-e811-8110-00155d010302",
+                        "tskStatus": {
+                            "OptionSetList": [],
+                            "Info": "Completed"
+                        },
+                        "statusColour": "008000",
+                        "priority": {
+                            "OptionSetList": [],
+                            "Info": "Normal"
+                        },
+                        "taskType": {
+                            "OptionSetList": [],
+                            "Info": ""
+                        }
+                    },
+                    {
+                        "leadId": "82209",
+                        "dueTime": "08:00:00",
+                        "custName": "sdf A Chaya Kumar",
+                        "dueDate": "01-09-2018",
+                        "ownrName": "Daniel WS",
+                        "subject": "Follow Up 3 - Due date",
+                        "description": "Follow Up 3 - Due date",
+                        "tskGUID": "a4abb6e5-99ab-e811-8110-00155d010302",
+                        "tskStatus": {
+                            "OptionSetList": [],
+                            "Info": "Completed"
+                        },
+                        "statusColour": "008000",
+                        "priority": {
+                            "OptionSetList": [],
+                            "Info": "Normal"
+                        },
+                        "taskType": {
+                            "OptionSetList": [],
+                            "Info": "Task"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
