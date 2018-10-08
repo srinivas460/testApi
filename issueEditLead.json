@@ -1,0 +1,415 @@
+{
+  "ModuleUserID": "Daniel@aparnaconstructions.com",
+  "ModuleUserPassword": "wscrm@123",
+  "FormType": "About",
+  "leadID": "82222",
+  "LeadStatus": "330150014",
+  "fu1notes": "fggh",
+  "nfu1date": "07-09-2018 05:30:00",
+  "leadStatus": {
+    "OptionSetList": [
+      {
+        "Value": 330150000,
+        "Text": "Follow Up 2"
+      },
+      {
+        "Value": 330150001,
+        "Text": "Follow Up 3"
+      },
+      {
+        "Value": 330150002,
+        "Text": "Follow Up 4"
+      },
+      {
+        "Value": 330150004,
+        "Text": "Follow Up 5"
+      },
+      {
+        "Value": 330150005,
+        "Text": "Meeting Scheduled"
+      },
+      {
+        "Value": 100000005,
+        "Text": "Site Visit Scheduled"
+      },
+      {
+        "Value": 330150013,
+        "Text": "Reschedule Site Visit"
+      },
+      {
+        "Value": 330150006,
+        "Text": "Met Client/Follow up"
+      },
+      {
+        "Value": 330150007,
+        "Text": "Verbal Commitment"
+      },
+      {
+        "Value": 100000006,
+        "Text": "Cancelled / Not Interested"
+      },
+      {
+        "Value": 330150003,
+        "Text": "Pre Reserved"
+      },
+      {
+        "Value": 330150014,
+        "Text": "Reserved"
+      }
+    ],
+    "Info": "Reserved"
+  },
+  "starred": "No",
+  "createdon": "05-09-2018 15:08:58",
+  "mobnumber": "8639094104",
+  "email": "ramya.iiita@gmail.com",
+  "fu2notes": "ffxf",
+  "nfu2date": "07-09-2018 00:00:00",
+  "fu3notes": "",
+  "nfu3date": "",
+  "fu4notes": "",
+  "nfu4date": "",
+  "fu5notes": "",
+  "nfu5date": "",
+  "schdsitevisitdate": "",
+  "actsitevisitdate": "",
+  "reschdsitevisitdate": "",
+  "rsnfrcancl": {
+    "OptionSetList": [
+      {
+        "Value": 330150000,
+        "Text": "Price High"
+      },
+      {
+        "Value": 330150001,
+        "Text": "Location"
+      },
+      {
+        "Value": 330150002,
+        "Text": "NO Price Negotiation"
+      },
+      {
+        "Value": 330150003,
+        "Text": "Property looking for not available (sft, east facing, etc)"
+      },
+      {
+        "Value": 330150004,
+        "Text": "Payment Terms"
+      },
+      {
+        "Value": 330150005,
+        "Text": "Bought from a Competitor"
+      },
+      {
+        "Value": 330150006,
+        "Text": "Accessibility to Project"
+      },
+      {
+        "Value": 330150007,
+        "Text": "Floor plan of the Property"
+      },
+      {
+        "Value": 330150008,
+        "Text": "Not enough Amenities"
+      },
+      {
+        "Value": 330150009,
+        "Text": "Waiting for Price to go down"
+      }
+    ],
+    "Info": ""
+  },
+  "sourcName": null,
+  "refrlloyltyid": "",
+  "avblunits": "B109",
+  "unttype": "SFT",
+  "tower": "B",
+  "floor": "1",
+  "paymtmode": "Cash",
+  "bankname": "",
+  "instnmber": "",
+  "propertyType": {
+    "OptionSetList": [
+      {
+        "Value": 330150000,
+        "Text": "Apartment"
+      },
+      {
+        "Value": 330150001,
+        "Text": "Villa"
+      },
+      {
+        "Value": 330150002,
+        "Text": "Open Land/Plot"
+      },
+      {
+        "Value": 330150003,
+        "Text": "Commercial Space"
+      }
+    ],
+    "Info": "Apartment"
+  },
+  "enquiryType": {
+    "OptionSetList": [
+      {
+        "Value": 330150000,
+        "Text": "Willing to speak to sales executive"
+      },
+      {
+        "Value": 330150001,
+        "Text": "Will visit site"
+      },
+      {
+        "Value": 330150002,
+        "Text": "Will get back"
+      }
+    ],
+    "Info": "Willing to speak to sales executive"
+  },
+  "timeFrameToPurchase": {
+    "OptionSetList": [
+      {
+        "Value": 330150000,
+        "Text": "Immediate"
+      },
+      {
+        "Value": 330150004,
+        "Text": "30 Days"
+      },
+      {
+        "Value": 330150005,
+        "Text": "60 Days"
+      },
+      {
+        "Value": 330150001,
+        "Text": "1 Month"
+      },
+      {
+        "Value": 330150002,
+        "Text": "2 Months"
+      },
+      {
+        "Value": 330150003,
+        "Text": "Not revealed"
+      }
+    ],
+    "Info": "Immediate"
+  },
+  "purposeOfPurchase": {
+    "OptionSetList": [
+      {
+        "Value": 330150000,
+        "Text": "End User"
+      },
+      {
+        "Value": 330150001,
+        "Text": "Investment"
+      }
+    ],
+    "Info": "Investment"
+  },
+  "salesType": {
+    "OptionSetList": [
+      {
+        "Value": 330150000,
+        "Text": "Hot"
+      },
+      {
+        "Value": 330150001,
+        "Text": "Warm"
+      },
+      {
+        "Value": 330150002,
+        "Text": "Cold"
+      }
+    ],
+    "Info": "Hot"
+  },
+  "team": {
+    "OptionSetList": [
+      {
+        "Value": 330150000,
+        "Text": "Domestic Team"
+      },
+      {
+        "Value": 330150001,
+        "Text": "International Team"
+      }
+    ],
+    "Info": "Domestic Team"
+  },
+  "sourceType": "Portal",
+  "statusColour": null,
+  "owner": "Daniel WS",
+  "firstName": "Ramya",
+  "lastName": ".",
+  "contactNumber": "8639094104",
+  "emailId": "ramya.iiita@gmail.com",
+  "addressStreet1": "11",
+  "addressStreet2": "Street2",
+  "city": "Hyderabad",
+  "country": "India",
+  "state": "Telangana",
+  "fathersHusbandName": "HH",
+  "age": "24",
+  "jobTitle": "Title",
+  "professionType": {
+    "OptionSetList": [
+      {
+        "Value": 100000000,
+        "Text": "Agriculture"
+      },
+      {
+        "Value": 100000001,
+        "Text": "Architect"
+      },
+      {
+        "Value": 100000002,
+        "Text": "Banking/ Finance/ Insurance"
+      },
+      {
+        "Value": 100000003,
+        "Text": "Business"
+      },
+      {
+        "Value": 100000004,
+        "Text": "Doctor"
+      },
+      {
+        "Value": 100000005,
+        "Text": "Education (Teacher, Professor)"
+      },
+      {
+        "Value": 100000006,
+        "Text": "Engineer (not software)"
+      },
+      {
+        "Value": 100000007,
+        "Text": "Govt. Service"
+      },
+      {
+        "Value": 100000008,
+        "Text": "Health care"
+      },
+      {
+        "Value": 100000009,
+        "Text": "Hospitality"
+      },
+      {
+        "Value": 100000010,
+        "Text": "House wife"
+      },
+      {
+        "Value": 100000011,
+        "Text": "Indian civil services"
+      },
+      {
+        "Value": 100000012,
+        "Text": "IT/ ITES/ Software"
+      },
+      {
+        "Value": 100000013,
+        "Text": "Law"
+      },
+      {
+        "Value": 100000014,
+        "Text": "Media"
+      },
+      {
+        "Value": 330150000,
+        "Text": "Information Technology"
+      },
+      {
+        "Value": 330150001,
+        "Text": "Finance"
+      },
+      {
+        "Value": 330150002,
+        "Text": "Government"
+      },
+      {
+        "Value": 330150003,
+        "Text": "Medical"
+      },
+      {
+        "Value": 330150004,
+        "Text": "Corporate"
+      },
+      {
+        "Value": 330150005,
+        "Text": "Legal"
+      },
+      {
+        "Value": 330150006,
+        "Text": "Media & Entertainment"
+      },
+      {
+        "Value": 330150007,
+        "Text": "Manufacturing"
+      },
+      {
+        "Value": 330150008,
+        "Text": "Educational"
+      },
+      {
+        "Value": 330150009,
+        "Text": "Consumer Goods"
+      },
+      {
+        "Value": 330150010,
+        "Text": "Others"
+      }
+    ],
+    "Info": "Architect"
+  },
+  "designationType": {
+    "OptionSetList": [
+      {
+        "Value": 330150000,
+        "Text": "CXO"
+      },
+      {
+        "Value": 330150001,
+        "Text": "Owner"
+      },
+      {
+        "Value": 330150002,
+        "Text": "Director"
+      },
+      {
+        "Value": 330150003,
+        "Text": "VP"
+      },
+      {
+        "Value": 330150004,
+        "Text": "Partner"
+      },
+      {
+        "Value": 330150005,
+        "Text": "Senior"
+      },
+      {
+        "Value": 330150006,
+        "Text": "Manager"
+      },
+      {
+        "Value": 100000000,
+        "Text": "Top management"
+      },
+      {
+        "Value": 100000001,
+        "Text": "Middle management"
+      },
+      {
+        "Value": 100000002,
+        "Text": "Junior management"
+      }
+    ],
+    "Info": "Owner"
+  },
+  "zipPostalCode": "500000",
+  "loyalityID": "",
+  "dob": "1988-09-07",
+  "anniversaryDate": "2013-09-07",
+  "panCardNumber": ""
+}
