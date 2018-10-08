@@ -1,20 +1,20 @@
 { 
   "accounting" : [   
-                     { "firstName1" : "John2",  
-                       "lastName1"  : "Doe2",
+                     { "firstName" : "John2",  
+                       "lastName"  : "Doe2",
                        "age1"       : 27 },
 
-                     { "firstName1" : "Mary3",  
-                       "lastName1"  : "Smith3",
-                        "age1"      : 41 },
+                     { "firstName" : "Mary3",  
+                       "lastName"  : "Smith3",
+                        "age"      : 41 },
                  ],                            
   "sales"      : [ 
-                     { "firstName2" : "Sally", 
-                       "lastName2"  : "Green",
+                     { "firstName" : "Sally", 
+                       "lastName"  : "Green",
                         "age2"      : 27 },
 
-                     { "firstName2" : "Jim",   
-                       "lastName2"  : "Galley",
-                       "age2"       : 41 }
+                     { "firstName" : "Jim",   
+                       "lastName"  : "Galley",
+                       "age"       : 41 }
                  ] 
 } 
