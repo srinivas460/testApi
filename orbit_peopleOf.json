@@ -1,0 +1,3602 @@
+[
+	{
+		"STUDENT NAME 0": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd0",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 0",
+			"section_name": "0",
+			"dob": "2006-07-0",
+			"student_guid": "1234567897654321234560",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 0",
+			"name": "STUDENT NAME 0",
+			"student_id": "7010",
+			"organisation_name": "VPTN CBSE"
+		},
+		"2017-10-00": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-00",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-00",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		]
+	},
+	{
+		"STUDENT NAME 1": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd1",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 1",
+			"section_name": "1",
+			"dob": "2006-07-1",
+			"student_guid": "1234567897654321234561",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 1",
+			"name": "STUDENT NAME 1",
+			"student_id": "7011",
+			"organisation_name": "VPTN CBSE"
+		},
+		"2017-10-01": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-01",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-01",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		]
+	},
+	{
+		"STUDENT NAME 2": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd2",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 2",
+			"section_name": "2",
+			"dob": "2006-07-2",
+			"student_guid": "1234567897654321234562",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 2",
+			"name": "STUDENT NAME 2",
+			"student_id": "7012",
+			"organisation_name": "VPTN CBSE"
+		},
+		"2017-10-02": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-02",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-02",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		]
+	},
+	{
+		"STUDENT NAME 3": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd3",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 3",
+			"section_name": "3",
+			"dob": "2006-07-3",
+			"student_guid": "1234567897654321234563",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 3",
+			"name": "STUDENT NAME 3",
+			"student_id": "7013",
+			"organisation_name": "VPTN CBSE"
+		},
+		"2017-10-03": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-03",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-03",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		]
+	},
+	{
+		"STUDENT NAME 4": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd4",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 4",
+			"section_name": "4",
+			"dob": "2006-07-4",
+			"student_guid": "1234567897654321234564",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 4",
+			"name": "STUDENT NAME 4",
+			"student_id": "7014",
+			"organisation_name": "VPTN CBSE"
+		},
+		"2017-10-04": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-04",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-04",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		]
+	},
+	{
+		"STUDENT NAME 5": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd5",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 5",
+			"section_name": "5",
+			"dob": "2006-07-5",
+			"student_guid": "1234567897654321234565",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 5",
+			"name": "STUDENT NAME 5",
+			"student_id": "7015",
+			"organisation_name": "VPTN CBSE"
+		},
+		"2017-10-05": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-05",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-05",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		]
+	},
+	{
+		"STUDENT NAME 6": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd6",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 6",
+			"section_name": "6",
+			"dob": "2006-07-6",
+			"student_guid": "1234567897654321234566",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 6",
+			"name": "STUDENT NAME 6",
+			"student_id": "7016",
+			"organisation_name": "VPTN CBSE"
+		},
+		"2017-10-06": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-06",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-06",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		]
+	},
+	{
+		"STUDENT NAME 7": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd7",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 7",
+			"section_name": "7",
+			"dob": "2006-07-7",
+			"student_guid": "1234567897654321234567",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 7",
+			"name": "STUDENT NAME 7",
+			"student_id": "7017",
+			"organisation_name": "VPTN CBSE"
+		},
+		"2017-10-07": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-07",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-07",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		]
+	},
+	{
+		"STUDENT NAME 8": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd8",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 8",
+			"section_name": "8",
+			"dob": "2006-07-8",
+			"student_guid": "1234567897654321234568",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 8",
+			"name": "STUDENT NAME 8",
+			"student_id": "7018",
+			"organisation_name": "VPTN CBSE"
+		},
+		"2017-10-08": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-08",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-08",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		]
+	},
+	{
+		"STUDENT NAME 9": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd9",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 9",
+			"section_name": "9",
+			"dob": "2006-07-9",
+			"student_guid": "1234567897654321234569",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 9",
+			"name": "STUDENT NAME 9",
+			"student_id": "7019",
+			"organisation_name": "VPTN CBSE"
+		},
+		"2017-10-09": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-09",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-09",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		]
+	},
+	{
+		"2017-10-010": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-010",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-010",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 10": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd10",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 10",
+			"section_name": "10",
+			"dob": "2006-07-10",
+			"student_guid": "12345678976543212345610",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 10",
+			"name": "STUDENT NAME 10",
+			"student_id": "70110",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"2017-10-011": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-011",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-011",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 11": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd11",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 11",
+			"section_name": "11",
+			"dob": "2006-07-11",
+			"student_guid": "12345678976543212345611",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 11",
+			"name": "STUDENT NAME 11",
+			"student_id": "70111",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"2017-10-012": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-012",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-012",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 12": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd12",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 12",
+			"section_name": "12",
+			"dob": "2006-07-12",
+			"student_guid": "12345678976543212345612",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 12",
+			"name": "STUDENT NAME 12",
+			"student_id": "70112",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"2017-10-013": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-013",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-013",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 13": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd13",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 13",
+			"section_name": "13",
+			"dob": "2006-07-13",
+			"student_guid": "12345678976543212345613",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 13",
+			"name": "STUDENT NAME 13",
+			"student_id": "70113",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"STUDENT NAME 14": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd14",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 14",
+			"section_name": "14",
+			"dob": "2006-07-14",
+			"student_guid": "12345678976543212345614",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 14",
+			"name": "STUDENT NAME 14",
+			"student_id": "70114",
+			"organisation_name": "VPTN CBSE"
+		},
+		"2017-10-014": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-014",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-014",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		]
+	},
+	{
+		"STUDENT NAME 15": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd15",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 15",
+			"section_name": "15",
+			"dob": "2006-07-15",
+			"student_guid": "12345678976543212345615",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 15",
+			"name": "STUDENT NAME 15",
+			"student_id": "70115",
+			"organisation_name": "VPTN CBSE"
+		},
+		"2017-10-015": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-015",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-015",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		]
+	},
+	{
+		"STUDENT NAME 16": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd16",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 16",
+			"section_name": "16",
+			"dob": "2006-07-16",
+			"student_guid": "12345678976543212345616",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 16",
+			"name": "STUDENT NAME 16",
+			"student_id": "70116",
+			"organisation_name": "VPTN CBSE"
+		},
+		"2017-10-016": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-016",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-016",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		]
+	},
+	{
+		"STUDENT NAME 17": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd17",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 17",
+			"section_name": "17",
+			"dob": "2006-07-17",
+			"student_guid": "12345678976543212345617",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 17",
+			"name": "STUDENT NAME 17",
+			"student_id": "70117",
+			"organisation_name": "VPTN CBSE"
+		},
+		"2017-10-017": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-017",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-017",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		]
+	},
+	{
+		"STUDENT NAME 18": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd18",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 18",
+			"section_name": "18",
+			"dob": "2006-07-18",
+			"student_guid": "12345678976543212345618",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 18",
+			"name": "STUDENT NAME 18",
+			"student_id": "70118",
+			"organisation_name": "VPTN CBSE"
+		},
+		"2017-10-018": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-018",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-018",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		]
+	},
+	{
+		"2017-10-019": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-019",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-019",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 19": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd19",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 19",
+			"section_name": "19",
+			"dob": "2006-07-19",
+			"student_guid": "12345678976543212345619",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 19",
+			"name": "STUDENT NAME 19",
+			"student_id": "70119",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"2017-10-020": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-020",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-020",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 20": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd20",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 20",
+			"section_name": "20",
+			"dob": "2006-07-20",
+			"student_guid": "12345678976543212345620",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 20",
+			"name": "STUDENT NAME 20",
+			"student_id": "70120",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"2017-10-021": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-021",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-021",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 21": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd21",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 21",
+			"section_name": "21",
+			"dob": "2006-07-21",
+			"student_guid": "12345678976543212345621",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 21",
+			"name": "STUDENT NAME 21",
+			"student_id": "70121",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"2017-10-022": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-022",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-022",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 22": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd22",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 22",
+			"section_name": "22",
+			"dob": "2006-07-22",
+			"student_guid": "12345678976543212345622",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 22",
+			"name": "STUDENT NAME 22",
+			"student_id": "70122",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"2017-10-023": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-023",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-023",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 23": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd23",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 23",
+			"section_name": "23",
+			"dob": "2006-07-23",
+			"student_guid": "12345678976543212345623",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 23",
+			"name": "STUDENT NAME 23",
+			"student_id": "70123",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"2017-10-024": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-024",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-024",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 24": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd24",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 24",
+			"section_name": "24",
+			"dob": "2006-07-24",
+			"student_guid": "12345678976543212345624",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 24",
+			"name": "STUDENT NAME 24",
+			"student_id": "70124",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"STUDENT NAME 25": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd25",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 25",
+			"section_name": "25",
+			"dob": "2006-07-25",
+			"student_guid": "12345678976543212345625",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 25",
+			"name": "STUDENT NAME 25",
+			"student_id": "70125",
+			"organisation_name": "VPTN CBSE"
+		},
+		"2017-10-025": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-025",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-025",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		]
+	},
+	{
+		"STUDENT NAME 26": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd26",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 26",
+			"section_name": "26",
+			"dob": "2006-07-26",
+			"student_guid": "12345678976543212345626",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 26",
+			"name": "STUDENT NAME 26",
+			"student_id": "70126",
+			"organisation_name": "VPTN CBSE"
+		},
+		"2017-10-026": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-026",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-026",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		]
+	},
+	{
+		"STUDENT NAME 27": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd27",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 27",
+			"section_name": "27",
+			"dob": "2006-07-27",
+			"student_guid": "12345678976543212345627",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 27",
+			"name": "STUDENT NAME 27",
+			"student_id": "70127",
+			"organisation_name": "VPTN CBSE"
+		},
+		"2017-10-027": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-027",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-027",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		]
+	},
+	{
+		"STUDENT NAME 28": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd28",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 28",
+			"section_name": "28",
+			"dob": "2006-07-28",
+			"student_guid": "12345678976543212345628",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 28",
+			"name": "STUDENT NAME 28",
+			"student_id": "70128",
+			"organisation_name": "VPTN CBSE"
+		},
+		"2017-10-028": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-028",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-028",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		]
+	},
+	{
+		"STUDENT NAME 29": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd29",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 29",
+			"section_name": "29",
+			"dob": "2006-07-29",
+			"student_guid": "12345678976543212345629",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 29",
+			"name": "STUDENT NAME 29",
+			"student_id": "70129",
+			"organisation_name": "VPTN CBSE"
+		},
+		"2017-10-029": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-029",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-029",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		]
+	},
+	{
+		"2017-10-030": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-030",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-030",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 30": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd30",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 30",
+			"section_name": "30",
+			"dob": "2006-07-30",
+			"student_guid": "12345678976543212345630",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 30",
+			"name": "STUDENT NAME 30",
+			"student_id": "70130",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"2017-10-031": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-031",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-031",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 31": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd31",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 31",
+			"section_name": "31",
+			"dob": "2006-07-31",
+			"student_guid": "12345678976543212345631",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 31",
+			"name": "STUDENT NAME 31",
+			"student_id": "70131",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"2017-10-032": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-032",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-032",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 32": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd32",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 32",
+			"section_name": "32",
+			"dob": "2006-07-32",
+			"student_guid": "12345678976543212345632",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 32",
+			"name": "STUDENT NAME 32",
+			"student_id": "70132",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"2017-10-033": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-033",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-033",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 33": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd33",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 33",
+			"section_name": "33",
+			"dob": "2006-07-33",
+			"student_guid": "12345678976543212345633",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 33",
+			"name": "STUDENT NAME 33",
+			"student_id": "70133",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"2017-10-034": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-034",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-034",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 34": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd34",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 34",
+			"section_name": "34",
+			"dob": "2006-07-34",
+			"student_guid": "12345678976543212345634",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 34",
+			"name": "STUDENT NAME 34",
+			"student_id": "70134",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"2017-10-035": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-035",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-035",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 35": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd35",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 35",
+			"section_name": "35",
+			"dob": "2006-07-35",
+			"student_guid": "12345678976543212345635",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 35",
+			"name": "STUDENT NAME 35",
+			"student_id": "70135",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"STUDENT NAME 36": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd36",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 36",
+			"section_name": "36",
+			"dob": "2006-07-36",
+			"student_guid": "12345678976543212345636",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 36",
+			"name": "STUDENT NAME 36",
+			"student_id": "70136",
+			"organisation_name": "VPTN CBSE"
+		},
+		"2017-10-036": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-036",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-036",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		]
+	},
+	{
+		"STUDENT NAME 37": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd37",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 37",
+			"section_name": "37",
+			"dob": "2006-07-37",
+			"student_guid": "12345678976543212345637",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 37",
+			"name": "STUDENT NAME 37",
+			"student_id": "70137",
+			"organisation_name": "VPTN CBSE"
+		},
+		"2017-10-037": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-037",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-037",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		]
+	},
+	{
+		"STUDENT NAME 38": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd38",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 38",
+			"section_name": "38",
+			"dob": "2006-07-38",
+			"student_guid": "12345678976543212345638",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 38",
+			"name": "STUDENT NAME 38",
+			"student_id": "70138",
+			"organisation_name": "VPTN CBSE"
+		},
+		"2017-10-038": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-038",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-038",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		]
+	},
+	{
+		"STUDENT NAME 39": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd39",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 39",
+			"section_name": "39",
+			"dob": "2006-07-39",
+			"student_guid": "12345678976543212345639",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 39",
+			"name": "STUDENT NAME 39",
+			"student_id": "70139",
+			"organisation_name": "VPTN CBSE"
+		},
+		"2017-10-039": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-039",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-039",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		]
+	},
+	{
+		"STUDENT NAME 40": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd40",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 40",
+			"section_name": "40",
+			"dob": "2006-07-40",
+			"student_guid": "12345678976543212345640",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 40",
+			"name": "STUDENT NAME 40",
+			"student_id": "70140",
+			"organisation_name": "VPTN CBSE"
+		},
+		"2017-10-040": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-040",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-040",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		]
+	},
+	{
+		"2017-10-041": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-041",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-041",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 41": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd41",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 41",
+			"section_name": "41",
+			"dob": "2006-07-41",
+			"student_guid": "12345678976543212345641",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 41",
+			"name": "STUDENT NAME 41",
+			"student_id": "70141",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"2017-10-042": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-042",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-042",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 42": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd42",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 42",
+			"section_name": "42",
+			"dob": "2006-07-42",
+			"student_guid": "12345678976543212345642",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 42",
+			"name": "STUDENT NAME 42",
+			"student_id": "70142",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"2017-10-043": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-043",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-043",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 43": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd43",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 43",
+			"section_name": "43",
+			"dob": "2006-07-43",
+			"student_guid": "12345678976543212345643",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 43",
+			"name": "STUDENT NAME 43",
+			"student_id": "70143",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"2017-10-044": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-044",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-044",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 44": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd44",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 44",
+			"section_name": "44",
+			"dob": "2006-07-44",
+			"student_guid": "12345678976543212345644",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 44",
+			"name": "STUDENT NAME 44",
+			"student_id": "70144",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"2017-10-045": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-045",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-045",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 45": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd45",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 45",
+			"section_name": "45",
+			"dob": "2006-07-45",
+			"student_guid": "12345678976543212345645",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 45",
+			"name": "STUDENT NAME 45",
+			"student_id": "70145",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"2017-10-046": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-046",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-046",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 46": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd46",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 46",
+			"section_name": "46",
+			"dob": "2006-07-46",
+			"student_guid": "12345678976543212345646",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 46",
+			"name": "STUDENT NAME 46",
+			"student_id": "70146",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"STUDENT NAME 47": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd47",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 47",
+			"section_name": "47",
+			"dob": "2006-07-47",
+			"student_guid": "12345678976543212345647",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 47",
+			"name": "STUDENT NAME 47",
+			"student_id": "70147",
+			"organisation_name": "VPTN CBSE"
+		},
+		"2017-10-047": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-047",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-047",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		]
+	},
+	{
+		"STUDENT NAME 48": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd48",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 48",
+			"section_name": "48",
+			"dob": "2006-07-48",
+			"student_guid": "12345678976543212345648",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 48",
+			"name": "STUDENT NAME 48",
+			"student_id": "70148",
+			"organisation_name": "VPTN CBSE"
+		},
+		"2017-10-048": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-048",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-048",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		]
+	},
+	{
+		"STUDENT NAME 49": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd49",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 49",
+			"section_name": "49",
+			"dob": "2006-07-49",
+			"student_guid": "12345678976543212345649",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 49",
+			"name": "STUDENT NAME 49",
+			"student_id": "70149",
+			"organisation_name": "VPTN CBSE"
+		},
+		"2017-10-049": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-049",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-049",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		]
+	},
+	{
+		"STUDENT NAME 50": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd50",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 50",
+			"section_name": "50",
+			"dob": "2006-07-50",
+			"student_guid": "12345678976543212345650",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 50",
+			"name": "STUDENT NAME 50",
+			"student_id": "70150",
+			"organisation_name": "VPTN CBSE"
+		},
+		"2017-10-050": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-050",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-050",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		]
+	},
+	{
+		"STUDENT NAME 51": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd51",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 51",
+			"section_name": "51",
+			"dob": "2006-07-51",
+			"student_guid": "12345678976543212345651",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 51",
+			"name": "STUDENT NAME 51",
+			"student_id": "70151",
+			"organisation_name": "VPTN CBSE"
+		},
+		"2017-10-051": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-051",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-051",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		]
+	},
+	{
+		"2017-10-052": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-052",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-052",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 52": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd52",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 52",
+			"section_name": "52",
+			"dob": "2006-07-52",
+			"student_guid": "12345678976543212345652",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 52",
+			"name": "STUDENT NAME 52",
+			"student_id": "70152",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"2017-10-053": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-053",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-053",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 53": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd53",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 53",
+			"section_name": "53",
+			"dob": "2006-07-53",
+			"student_guid": "12345678976543212345653",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 53",
+			"name": "STUDENT NAME 53",
+			"student_id": "70153",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"2017-10-054": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-054",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-054",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 54": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd54",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 54",
+			"section_name": "54",
+			"dob": "2006-07-54",
+			"student_guid": "12345678976543212345654",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 54",
+			"name": "STUDENT NAME 54",
+			"student_id": "70154",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"2017-10-055": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-055",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-055",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 55": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd55",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 55",
+			"section_name": "55",
+			"dob": "2006-07-55",
+			"student_guid": "12345678976543212345655",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 55",
+			"name": "STUDENT NAME 55",
+			"student_id": "70155",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"2017-10-056": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-056",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-056",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 56": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd56",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 56",
+			"section_name": "56",
+			"dob": "2006-07-56",
+			"student_guid": "12345678976543212345656",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 56",
+			"name": "STUDENT NAME 56",
+			"student_id": "70156",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"2017-10-057": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-057",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-057",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 57": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd57",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 57",
+			"section_name": "57",
+			"dob": "2006-07-57",
+			"student_guid": "12345678976543212345657",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 57",
+			"name": "STUDENT NAME 57",
+			"student_id": "70157",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"STUDENT NAME 58": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd58",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 58",
+			"section_name": "58",
+			"dob": "2006-07-58",
+			"student_guid": "12345678976543212345658",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 58",
+			"name": "STUDENT NAME 58",
+			"student_id": "70158",
+			"organisation_name": "VPTN CBSE"
+		},
+		"2017-10-058": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-058",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-058",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		]
+	},
+	{
+		"STUDENT NAME 59": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd59",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 59",
+			"section_name": "59",
+			"dob": "2006-07-59",
+			"student_guid": "12345678976543212345659",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 59",
+			"name": "STUDENT NAME 59",
+			"student_id": "70159",
+			"organisation_name": "VPTN CBSE"
+		},
+		"2017-10-059": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-059",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-059",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		]
+	},
+	{
+		"2017-10-060": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-060",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-060",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 60": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd60",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 60",
+			"section_name": "60",
+			"dob": "2006-07-60",
+			"student_guid": "12345678976543212345660",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 60",
+			"name": "STUDENT NAME 60",
+			"student_id": "70160",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"STUDENT NAME 61": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd61",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 61",
+			"section_name": "61",
+			"dob": "2006-07-61",
+			"student_guid": "12345678976543212345661",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 61",
+			"name": "STUDENT NAME 61",
+			"student_id": "70161",
+			"organisation_name": "VPTN CBSE"
+		},
+		"2017-10-061": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-061",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-061",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		]
+	},
+	{
+		"STUDENT NAME 62": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd62",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 62",
+			"section_name": "62",
+			"dob": "2006-07-62",
+			"student_guid": "12345678976543212345662",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 62",
+			"name": "STUDENT NAME 62",
+			"student_id": "70162",
+			"organisation_name": "VPTN CBSE"
+		},
+		"2017-10-062": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-062",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-062",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		]
+	},
+	{
+		"2017-10-063": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-063",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-063",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 63": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd63",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 63",
+			"section_name": "63",
+			"dob": "2006-07-63",
+			"student_guid": "12345678976543212345663",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 63",
+			"name": "STUDENT NAME 63",
+			"student_id": "70163",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"2017-10-064": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-064",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-064",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 64": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd64",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 64",
+			"section_name": "64",
+			"dob": "2006-07-64",
+			"student_guid": "12345678976543212345664",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 64",
+			"name": "STUDENT NAME 64",
+			"student_id": "70164",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"2017-10-065": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-065",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-065",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 65": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd65",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 65",
+			"section_name": "65",
+			"dob": "2006-07-65",
+			"student_guid": "12345678976543212345665",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 65",
+			"name": "STUDENT NAME 65",
+			"student_id": "70165",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"2017-10-066": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-066",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-066",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 66": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd66",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 66",
+			"section_name": "66",
+			"dob": "2006-07-66",
+			"student_guid": "12345678976543212345666",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 66",
+			"name": "STUDENT NAME 66",
+			"student_id": "70166",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"2017-10-067": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-067",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-067",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 67": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd67",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 67",
+			"section_name": "67",
+			"dob": "2006-07-67",
+			"student_guid": "12345678976543212345667",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 67",
+			"name": "STUDENT NAME 67",
+			"student_id": "70167",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"2017-10-068": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-068",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-068",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 68": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd68",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 68",
+			"section_name": "68",
+			"dob": "2006-07-68",
+			"student_guid": "12345678976543212345668",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 68",
+			"name": "STUDENT NAME 68",
+			"student_id": "70168",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"STUDENT NAME 69": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd69",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 69",
+			"section_name": "69",
+			"dob": "2006-07-69",
+			"student_guid": "12345678976543212345669",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 69",
+			"name": "STUDENT NAME 69",
+			"student_id": "70169",
+			"organisation_name": "VPTN CBSE"
+		},
+		"2017-10-069": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-069",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-069",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		]
+	},
+	{
+		"2017-10-070": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-070",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-070",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 70": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd70",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 70",
+			"section_name": "70",
+			"dob": "2006-07-70",
+			"student_guid": "12345678976543212345670",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 70",
+			"name": "STUDENT NAME 70",
+			"student_id": "70170",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"2017-10-071": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-071",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-071",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 71": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd71",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 71",
+			"section_name": "71",
+			"dob": "2006-07-71",
+			"student_guid": "12345678976543212345671",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 71",
+			"name": "STUDENT NAME 71",
+			"student_id": "70171",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"STUDENT NAME 72": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd72",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 72",
+			"section_name": "72",
+			"dob": "2006-07-72",
+			"student_guid": "12345678976543212345672",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 72",
+			"name": "STUDENT NAME 72",
+			"student_id": "70172",
+			"organisation_name": "VPTN CBSE"
+		},
+		"2017-10-072": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-072",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-072",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		]
+	},
+	{
+		"STUDENT NAME 73": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd73",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 73",
+			"section_name": "73",
+			"dob": "2006-07-73",
+			"student_guid": "12345678976543212345673",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 73",
+			"name": "STUDENT NAME 73",
+			"student_id": "70173",
+			"organisation_name": "VPTN CBSE"
+		},
+		"2017-10-073": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-073",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-073",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		]
+	},
+	{
+		"2017-10-074": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-074",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-074",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 74": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd74",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 74",
+			"section_name": "74",
+			"dob": "2006-07-74",
+			"student_guid": "12345678976543212345674",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 74",
+			"name": "STUDENT NAME 74",
+			"student_id": "70174",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"2017-10-075": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-075",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-075",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 75": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd75",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 75",
+			"section_name": "75",
+			"dob": "2006-07-75",
+			"student_guid": "12345678976543212345675",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 75",
+			"name": "STUDENT NAME 75",
+			"student_id": "70175",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"2017-10-076": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-076",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-076",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 76": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd76",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 76",
+			"section_name": "76",
+			"dob": "2006-07-76",
+			"student_guid": "12345678976543212345676",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 76",
+			"name": "STUDENT NAME 76",
+			"student_id": "70176",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"2017-10-077": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-077",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-077",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 77": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd77",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 77",
+			"section_name": "77",
+			"dob": "2006-07-77",
+			"student_guid": "12345678976543212345677",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 77",
+			"name": "STUDENT NAME 77",
+			"student_id": "70177",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"2017-10-078": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-078",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-078",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 78": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd78",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 78",
+			"section_name": "78",
+			"dob": "2006-07-78",
+			"student_guid": "12345678976543212345678",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 78",
+			"name": "STUDENT NAME 78",
+			"student_id": "70178",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"2017-10-079": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-079",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-079",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 79": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd79",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 79",
+			"section_name": "79",
+			"dob": "2006-07-79",
+			"student_guid": "12345678976543212345679",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 79",
+			"name": "STUDENT NAME 79",
+			"student_id": "70179",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"2017-10-080": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-080",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-080",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 80": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd80",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 80",
+			"section_name": "80",
+			"dob": "2006-07-80",
+			"student_guid": "12345678976543212345680",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 80",
+			"name": "STUDENT NAME 80",
+			"student_id": "70180",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"2017-10-081": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-081",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-081",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 81": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd81",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 81",
+			"section_name": "81",
+			"dob": "2006-07-81",
+			"student_guid": "12345678976543212345681",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 81",
+			"name": "STUDENT NAME 81",
+			"student_id": "70181",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"2017-10-082": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-082",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-082",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 82": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd82",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 82",
+			"section_name": "82",
+			"dob": "2006-07-82",
+			"student_guid": "12345678976543212345682",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 82",
+			"name": "STUDENT NAME 82",
+			"student_id": "70182",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"STUDENT NAME 83": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd83",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 83",
+			"section_name": "83",
+			"dob": "2006-07-83",
+			"student_guid": "12345678976543212345683",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 83",
+			"name": "STUDENT NAME 83",
+			"student_id": "70183",
+			"organisation_name": "VPTN CBSE"
+		},
+		"2017-10-083": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-083",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-083",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		]
+	},
+	{
+		"STUDENT NAME 84": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd84",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 84",
+			"section_name": "84",
+			"dob": "2006-07-84",
+			"student_guid": "12345678976543212345684",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 84",
+			"name": "STUDENT NAME 84",
+			"student_id": "70184",
+			"organisation_name": "VPTN CBSE"
+		},
+		"2017-10-084": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-084",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-084",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		]
+	},
+	{
+		"2017-10-085": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-085",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-085",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 85": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd85",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 85",
+			"section_name": "85",
+			"dob": "2006-07-85",
+			"student_guid": "12345678976543212345685",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 85",
+			"name": "STUDENT NAME 85",
+			"student_id": "70185",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"2017-10-086": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-086",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-086",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 86": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd86",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 86",
+			"section_name": "86",
+			"dob": "2006-07-86",
+			"student_guid": "12345678976543212345686",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 86",
+			"name": "STUDENT NAME 86",
+			"student_id": "70186",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"2017-10-087": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-087",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-087",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 87": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd87",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 87",
+			"section_name": "87",
+			"dob": "2006-07-87",
+			"student_guid": "12345678976543212345687",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 87",
+			"name": "STUDENT NAME 87",
+			"student_id": "70187",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"2017-10-088": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-088",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-088",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 88": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd88",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 88",
+			"section_name": "88",
+			"dob": "2006-07-88",
+			"student_guid": "12345678976543212345688",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 88",
+			"name": "STUDENT NAME 88",
+			"student_id": "70188",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"2017-10-089": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-089",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-089",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 89": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd89",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 89",
+			"section_name": "89",
+			"dob": "2006-07-89",
+			"student_guid": "12345678976543212345689",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 89",
+			"name": "STUDENT NAME 89",
+			"student_id": "70189",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"STUDENT NAME 90": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd90",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 90",
+			"section_name": "90",
+			"dob": "2006-07-90",
+			"student_guid": "12345678976543212345690",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 90",
+			"name": "STUDENT NAME 90",
+			"student_id": "70190",
+			"organisation_name": "VPTN CBSE"
+		},
+		"2017-10-090": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-090",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-090",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		]
+	},
+	{
+		"2017-10-091": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-091",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-091",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 91": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd91",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 91",
+			"section_name": "91",
+			"dob": "2006-07-91",
+			"student_guid": "12345678976543212345691",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 91",
+			"name": "STUDENT NAME 91",
+			"student_id": "70191",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"2017-10-092": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-092",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-092",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 92": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd92",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 92",
+			"section_name": "92",
+			"dob": "2006-07-92",
+			"student_guid": "12345678976543212345692",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 92",
+			"name": "STUDENT NAME 92",
+			"student_id": "70192",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"2017-10-093": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-093",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-093",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 93": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd93",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 93",
+			"section_name": "93",
+			"dob": "2006-07-93",
+			"student_guid": "12345678976543212345693",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 93",
+			"name": "STUDENT NAME 93",
+			"student_id": "70193",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"STUDENT NAME 94": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd94",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 94",
+			"section_name": "94",
+			"dob": "2006-07-94",
+			"student_guid": "12345678976543212345694",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 94",
+			"name": "STUDENT NAME 94",
+			"student_id": "70194",
+			"organisation_name": "VPTN CBSE"
+		},
+		"2017-10-094": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-094",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-094",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		]
+	},
+	{
+		"STUDENT NAME 95": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd95",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 95",
+			"section_name": "95",
+			"dob": "2006-07-95",
+			"student_guid": "12345678976543212345695",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 95",
+			"name": "STUDENT NAME 95",
+			"student_id": "70195",
+			"organisation_name": "VPTN CBSE"
+		},
+		"2017-10-095": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-095",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-095",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		]
+	},
+	{
+		"2017-10-096": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-096",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-096",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 96": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd96",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 96",
+			"section_name": "96",
+			"dob": "2006-07-96",
+			"student_guid": "12345678976543212345696",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 96",
+			"name": "STUDENT NAME 96",
+			"student_id": "70196",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"2017-10-097": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-097",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-097",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 97": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd97",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 97",
+			"section_name": "97",
+			"dob": "2006-07-97",
+			"student_guid": "12345678976543212345697",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 97",
+			"name": "STUDENT NAME 97",
+			"student_id": "70197",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"2017-10-098": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-098",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-098",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 98": {
+			"term_name": "LKG",
+			"section_guid": "704199790576d0550ea0fd98",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 98",
+			"section_name": "98",
+			"dob": "2006-07-98",
+			"student_guid": "12345678976543212345698",
+			"program_name": "CBSE",
+			"mother_name": "MOTHER NAME 98",
+			"name": "STUDENT NAME 98",
+			"student_id": "70198",
+			"organisation_name": "VPTN CBSE"
+		}
+	},
+	{
+		"2017-10-099": [
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-099",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 1,
+				"attendance_type": "session"
+			},
+			{
+				"reason": "",
+				"is_present": "Y",
+				"attendance_date": "2017-10-099",
+				"remarks": "",
+				"attendance_taken": "ADMIN",
+				"slot_number": 2,
+				"attendance_type": "session"
+			}
+		],
+		"STUDENT NAME 99": {
+			"term_name": "UKG",
+			"section_guid": "704199790576d0550ea0fd99",
+			"stream_name": "K-12",
+			"father_name": "FATHER NAME 99",
+			"section_name": "99",
+			"dob": "2006-07-99",
+			"student_guid": "12345678976543212345699",
+			"program_name": "SSC",
+			"mother_name": "MOTHER NAME 99",
+			"name": "STUDENT NAME 99",
+			"student_id": "70199",
+			"organisation_name": "VPTN CBSE"
+		}
+	}
+]
