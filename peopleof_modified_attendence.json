@@ -1,0 +1,195 @@
+[
+	{
+        "name": "GREESHMA ANANYA P",
+        "organisation_name": "VPTN CBSE",
+        "program_name": "CBSE",
+        "stream_name": "K-12",
+        "term_name": "Class 1",
+        "section_name": "A",
+        "section_guid": "5643199576d055ea911d",
+        "student_id": "7194",
+        "father_name": "PRASANNA H N",
+        "mother_name": "GIRIJA M C",
+        "dob": "2006-07-06",
+        "student_guid": "905221120576ce23e3e61b"
+        "marks": [
+            {
+                "exam": "IA - 1",
+                "subject": "MATHEMATICS",
+                "max_marks": "30",
+                "marks_obtained": "20",
+                "percentage": "66.67",
+                "grade_obtained": "B",
+                "remarks": null
+            }, {
+                "exam": "IA - 1",
+                "subject": "ENGLISH",
+                "max_marks": "80",
+                "marks_obtained": "55",
+                "percentage": "68.75",
+                "grade_obtained": "B",
+                "remarks": null
+            }, {
+                "exam": "IA - 1",
+                "subject": "IIND LANG HINDI",
+                "max_marks": "70",
+                "marks_obtained": "43",
+                "percentage": "61.43",
+                "grade_obtained": "B",
+                "remarks": null
+            }, {
+                "exam": "IA - 1",
+                "subject": "ENVIRONMENTAL SCIENCE",
+                "max_marks": "20",
+                "marks_obtained": "19",
+                "percentage": "95.00",
+                "grade_obtained": "A+",
+                "remarks": null
+            }, {
+                "exam": "MR1",
+                "subject": "MATHEMATICS",
+                "max_marks": "25",
+                "marks_obtained": "18",
+                "percentage": "72.00",
+                "grade_obtained": "B",
+                "remarks": null
+            }, {
+                "exam": "MR1",
+                "subject": "COMPUTER EDUCATION",
+                "max_marks": "50",
+                "marks_obtained": "43",
+                "percentage": "86.00",
+                "grade_obtained": "A",
+                "remarks": null
+            }, {
+                "exam": "MR1",
+                "subject": "ENGLISH",
+                "max_marks": "25",
+                "marks_obtained": "15",
+                "percentage": "60.00",
+                "grade_obtained": "B",
+                "remarks": null
+            }, {
+                "exam": "MR1",
+                "subject": "Remarks",
+                "max_marks": "",
+                "marks_obtained": "",
+                "percentage": "0.00",
+                "grade_obtained": "",
+                "remarks": null
+            }, {
+                "exam": "MR1",
+                "subject": "IIND LANG HINDI",
+                "max_marks": "25",
+                "marks_obtained": "14",
+                "percentage": "56.00",
+                "grade_obtained": "B",
+                "remarks": null
+            }, {
+                "exam": "MR1",
+                "subject": "ENVIRONMENTAL SCIENCE",
+                "max_marks": "25",
+                "marks_obtained": "20",
+                "percentage": "80.00",
+                "grade_obtained": "A",
+                "remarks": null
+            }
+        ]
+    }, {
+        "name": "INCHARA P",
+        "organisation_name": "VPTN CBSE",
+        "program_name": "CBSE",
+        "stream_name": "K-12",
+        "term_name": "Class 1",
+        "section_name": "A",
+        "section_guid": "5643199576d055ea911d",
+        "student_id": "7303",
+        "father_name": "H C PARAMESHA",
+        "mother_name": "A M SAVITHA",
+        "dob": "2006-07-20",
+        "student_guid": "1715033525576ce284c322a",
+        "marks": [
+            {
+                "exam": "IA - 1",
+                "subject": "MATHEMATICS",
+                "max_marks": "30",
+                "marks_obtained": "23",
+                "percentage": "76.67",
+                "grade_obtained": "A",
+                "remarks": null
+            }, {
+                "exam": "IA - 1",
+                "subject": "ENGLISH",
+                "max_marks": "80",
+                "marks_obtained": "54",
+                "percentage": "67.50",
+                "grade_obtained": "B",
+                "remarks": null
+            }, {
+                "exam": "IA - 1",
+                "subject": "IIND LANG HINDI",
+                "max_marks": "70",
+                "marks_obtained": "46",
+                "percentage": "65.71",
+                "grade_obtained": "B",
+                "remarks": null
+            }, {
+                "exam": "IA - 1",
+                "subject": "ENVIRONMENTAL SCIENCE",
+                "max_marks": "20",
+                "marks_obtained": "16",
+                "percentage": "80.00",
+                "grade_obtained": "A",
+                "remarks": null
+            }, {
+                "exam": "MR1",
+                "subject": "MATHEMATICS",
+                "max_marks": "25",
+                "marks_obtained": "17",
+                "percentage": "68.00",
+                "grade_obtained": "B",
+                "remarks": null
+            }, {
+                "exam": "MR1",
+                "subject": "COMPUTER EDUCATION",
+                "max_marks": "50",
+                "marks_obtained": "39",
+                "percentage": "78.00",
+                "grade_obtained": "A",
+                "remarks": null
+            }, {
+                "exam": "MR1",
+                "subject": "ENGLISH",
+                "max_marks": "25",
+                "marks_obtained": "16",
+                "percentage": "64.00",
+                "grade_obtained": "B",
+                "remarks": null
+            }, {
+                "exam": "MR1",
+                "subject": "Remarks",
+                "max_marks": "",
+                "marks_obtained": null,
+                "percentage": "0.00",
+                "grade_obtained": null,
+                "remarks": null
+            }, {
+                "exam": "MR1",
+                "subject": "IIND LANG HINDI",
+                "max_marks": "25",
+                "marks_obtained": "16",
+                "percentage": "64.00",
+                "grade_obtained": "B",
+                "remarks": null
+            }, {
+                "exam": "MR1",
+                "subject": "ENVIRONMENTAL SCIENCE",
+                "max_marks": "25",
+                "marks_obtained": "18",
+                "percentage": "72.00",
+                "grade_obtained": "B",
+                "remarks": null
+            }
+        ]
+    }
+]

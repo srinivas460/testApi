@@ -1,0 +1,107 @@
+[
+    {
+		"name": "GREESHMA ANANYA P",
+		"organisation_name": "VPTN CBSE",
+		"program_name": "CBSE",
+		"stream_name": "K-12",
+		"term_name": "Class 1",
+		"section_name": "A",
+		"section_guid": "5643199576d055ea911d",
+		"student_id": "7194",
+		"father_name": "PRASANNA H N",
+		"mother_name": "GIRIJA M C",
+		"dob": "2006-07-06",
+		"student_guid": "905221120576ce23e3e61b",
+		"attendance": [
+            {
+                "type": "Session",
+				"slot_number": "1",
+				"attendance_date": "2016-06-01",
+				"is_present": "Y",
+				"attendance_type": "session",
+				"reason": null,
+				"remarks": null,
+				"attendance_taken": "Admin"
+			}, {
+                "type": "Session",
+				"slot_number": "2",
+				"attendance_date": "2016-06-01",
+				"is_present": "Y",
+				"attendance_type": "session",
+				"reason": null,
+				"remarks": null,
+				"attendance_taken": "Admin"
+			}, {
+                "type": "Session",
+				"slot_number": "1",
+				"attendance_date": "2016-06-02",
+				"is_present": "Y",
+				"attendance_type": "session",
+				"reason": null,
+				"remarks": null,
+				"attendance_taken": "Admin"
+			}, {
+                "type": "Session",
+				"slot_number": "2",
+				"attendance_date": "2016-06-02",
+				"is_present": "Y",
+				"attendance_type": "session",
+				"reason": null,
+				"remarks": null,
+				"attendance_taken": "Admin"
+			}
+        ]
+    }, {
+        "name": "INCHARA P",
+        "organisation_name": "VPTN CBSE",
+        "program_name": "CBSE",
+        "stream_name": "K-12",
+        "term_name": "Class 1",
+        "section_name": "A",
+        "section_guid": "5643199576d055ea911d",
+        "student_id": "7303",
+        "father_name": "H C PARAMESHA",
+        "mother_name": "A M SAVITHA",
+        "dob": "2006-07-20",
+        "student_guid": "1715033525576ce284c322a",
+        "attendance": [
+            {
+                "type": "Session",
+                "slot_number": "1",
+                "attendance_date": "2016-06-01",
+                "is_present": "Y",
+                "attendance_type": "session",
+                "reason": null,
+                "remarks": null,
+                "attendance_taken": "Admin"
+            }, {
+                "type": "Session",
+                "slot_number": "2",
+                "attendance_date": "2016-06-01",
+                "is_present": "Y",
+                "attendance_type": "session",
+                "reason": null,
+                "remarks": null,
+                "attendance_taken": "Admin"
+            }, {
+                "type": "Session",
+                "slot_number": "1",
+                "attendance_date": "2016-06-02",
+                "is_present": "Y",
+                "attendance_type": "session",
+                "reason": null,
+                "remarks": null,
+                "attendance_taken": "Admin"
+            }, {
+                "type": "Session",
+                "slot_number": "2",
+                "attendance_date": "2016-06-02",
+                "is_present": "Y",
+                "attendance_type": "session",
+                "reason": null,
+                "remarks": null,
+                "attendance_taken": "Admin"
+            }
+        ]
+    }
+]
