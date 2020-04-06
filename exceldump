@@ -1,0 +1,132 @@
+[
+  {
+    "rec_v": 687,
+    "INV_V": 2208,
+    "INV_I": 5753,
+    "GI_DATE": "3/1/2018",
+    "Cur": "THB",
+    "C/C": "W910000",
+    "Amount": 27540,
+    "Base Amount": 19252663.2
+  },
+  {
+    "rec_v": 688,
+    "INV_V": 8659,
+    "INV_I": 7923,
+    "GI_DATE": "3/21/2018",
+    "Cur": "THB",
+    "C/C": "0000000",
+    "Amount": 24004.1,
+    "Base Amount": 16780786.228
+  },
+  {
+    "rec_v": 689,
+    "INV_V": 2437,
+    "INV_I": 5422,
+    "GI_DATE": "3/5/2018",
+    "Cur": "THB",
+    "C/C": "B910000",
+    "Amount": 1075424.12,
+    "Base Amount": 8063959321.6
+  },
+  {
+    "rec_v": 690,
+    "INV_V": 4822,
+    "INV_I": 2749,
+    "GI_DATE": "3/26/2018",
+    "Cur": "USD",
+    "C/C": "SC10000",
+    "Amount": 422.1,
+    "Base Amount": 9606996
+  },
+  {
+    "rec_v": 691,
+    "INV_V": 7251,
+    "INV_I": 6244,
+    "GI_DATE": "3/13/2018",
+    "Cur": "USD",
+    "C/C": "SF10000",
+    "Amount": 101314.12,
+    "Base Amount": 2302363209.8317
+  },
+  {
+    "rec_v": 691,
+    "INV_V": 4606,
+    "INV_I": 7080,
+    "GI_DATE": "3/13/2018",
+    "Cur": "USD",
+    "C/C": "SF10000",
+    "Amount": 8566,
+    "Base Amount": 194662399.6828
+  },
+  {
+    "rec_v": 691,
+    "INV_V": 2276,
+    "INV_I": 6099,
+    "GI_DATE": "3/13/2018",
+    "Cur": "USD",
+    "C/C": "SF10000",
+    "Amount": 1905.39,
+    "Base Amount": 43299999.9445
+  },
+  {
+    "rec_v": 691,
+    "INV_V": 4517,
+    "INV_I": 485,
+    "GI_DATE": "3/13/2018",
+    "Cur": "USD",
+    "C/C": "SK10000",
+    "Amount": 7266.38,
+    "Base Amount": 165128582.14285
+  },
+  {
+    "rec_v": 691,
+    "INV_V": 6600,
+    "INV_I": 6022,
+    "GI_DATE": "3/13/2018",
+    "Cur": "USD",
+    "C/C": "SF10000",
+    "Amount": 28517.17,
+    "Base Amount": 648052669.42867
+  },
+  {
+    "rec_v": 691,
+    "INV_V": 371,
+    "INV_I": 7805,
+    "GI_DATE": "3/14/2018",
+    "Cur": "USD",
+    "C/C": "SF10000",
+    "Amount": 6855,
+    "Base Amount": 155779875
+  },
+  {
+    "rec_v": 691,
+    "INV_V": 7918,
+    "INV_I": 3943,
+    "GI_DATE": "3/14/2018",
+    "Cur": "USD",
+    "C/C": "SF10000",
+    "Amount": 10858.64,
+    "Base Amount": 246762594
+  },
+  {
+    "rec_v": 691,
+    "INV_V": 685,
+    "INV_I": 6732,
+    "GI_DATE": "3/14/2018",
+    "Cur": "USD",
+    "C/C": "SF10000",
+    "Amount": 5128.64,
+    "Base Amount": 116548344
+  },
+  {
+    "rec_v": 691,
+    "INV_V": 6890,
+    "INV_I": 6075,
+    "GI_DATE": "3/14/2018",
+    "Cur": "USD",
+    "C/C": "SF10000",
+    "Amount": 188849.55,
+    "Base Amount": 4291606070.01814
+  }
+]
