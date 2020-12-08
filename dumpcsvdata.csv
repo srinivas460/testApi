@@ -1,0 +1,133 @@
+Claim Code,Version,Checkrun Dt,Reason,Error Message
+200729JP1B24,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029807
+200730JP1945,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029878
+200730IM0018,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029895
+200729JP2X14,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084443and the payee flag is :PUser-Defined Exception
+200729IZ4G65,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084403and the payee flag is :PUser-Defined Exception
+200729JP1C51,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084429and the payee flag is :PUser-Defined Exception
+200729MI1904,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084395and the payee flag is :PUser-Defined Exception
+200731M2FK55,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029872
+200730IZ2047,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029861
+200803JP2T39,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084411and the payee flag is :PUser-Defined Exception
+200729MI1B43,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084415and the payee flag is :PUser-Defined Exception
+200811JP2T54,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084594and the payee flag is :PUser-Defined Exception
+200729IZ2Z99,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084397and the payee flag is :PUser-Defined Exception
+200729JP2S70,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084419and the payee flag is :PUser-Defined Exception
+200731M2FK69,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029872
+200729JP2U06,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029859
+200729JP2S72,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084419and the payee flag is :PUser-Defined Exception
+200730MI2E81,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029871
+200730IZ3F13,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029866
+200729JP2P75,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084401and the payee flag is :PUser-Defined Exception
+200729JP2T34,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029817
+200729JP2U62,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029824
+200731IZ4T57,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 12089737
+200729JP0043,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029856
+200729MI2570,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029852
+200730JP1852,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084508and the payee flag is :PUser-Defined Exception
+200729JP2X08,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084443and the payee flag is :PUser-Defined Exception
+200729IZ0024,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029806
+200729JP2T40,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084451and the payee flag is :PUser-Defined Exception
+200729JP2U04,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029859
+200729JP2X07,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084443and the payee flag is :PUser-Defined Exception
+200729JP1F69,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029842
+200729JP2X23,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 12089720
+200728JP1B89,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084345and the payee flag is :PUser-Defined Exception
+200729JP1C50,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084441and the payee flag is :PUser-Defined Exception
+200730IZ0E23,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029869
+200729JP2S45,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029837
+200729JP2R62,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084438and the payee flag is :PUser-Defined Exception
+200729JP0103,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084431and the payee flag is :PUser-Defined Exception
+200730IZ2023,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084469and the payee flag is :PUser-Defined Exception
+200729JP2Q18,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084407and the payee flag is :PUser-Defined Exception
+200729MI1972,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029860
+200803JP2Q77,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084421and the payee flag is :PUser-Defined Exception
+200730MI2E31,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029866
+200729JP2U00,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029859
+200727JP2U15,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084490and the payee flag is :PUser-Defined Exception
+200730IZ3F12,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029866
+200803JP2Q73,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084421and the payee flag is :PUser-Defined Exception
+200803JP2Q75,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084421and the payee flag is :PUser-Defined Exception
+200729JP1874,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084435and the payee flag is :PUser-Defined Exception
+200729JP2U90,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084411and the payee flag is :PUser-Defined Exception
+200810JP2Q10,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084792and the payee flag is :PUser-Defined Exception
+200729MI1B42,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084415and the payee flag is :PUser-Defined Exception
+200731IZ2308,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029866
+200730IZ1X90,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084463and the payee flag is :PUser-Defined Exception
+200729JP2S68,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084419and the payee flag is :PUser-Defined Exception
+200729JP2Q34,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084421and the payee flag is :PUser-Defined Exception
+200729JP2T69,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084457and the payee flag is :PUser-Defined Exception
+200729IZ2Z77,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084391and the payee flag is :PUser-Defined Exception
+200729MI1B47,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084433and the payee flag is :PUser-Defined Exception
+200729JP2T41,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029844
+200729MI1100,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084423and the payee flag is :PUser-Defined Exception
+200810JP2W30,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084594and the payee flag is :PUser-Defined Exception
+200729JP2R60,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084438and the payee flag is :PUser-Defined Exception
+200731M2FK39,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029872
+200729IZ2Z73,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029812
+200729JP2U64,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029824
+200729JP2X05,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084447and the payee flag is :PUser-Defined Exception
+200730IZ0089,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084481and the payee flag is :PUser-Defined Exception
+200727JP2Q05,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029890
+200730JP2Q76,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084411and the payee flag is :PUser-Defined Exception
+200727JP2Q41,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084494and the payee flag is :PUser-Defined Exception
+200729JP2S47,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029831
+200729JP2P99,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084383and the payee flag is :PUser-Defined Exception
+200727JP1798,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084483and the payee flag is :PUser-Defined Exception
+200730JP2R18,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084498and the payee flag is :PUser-Defined Exception
+200729MI1B65,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084387and the payee flag is :PUser-Defined Exception
+200730IZ1Y95,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084471and the payee flag is :PUser-Defined Exception
+200730JP1831,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084421and the payee flag is :PUser-Defined Exception
+200729MI1951,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084377and the payee flag is :PUser-Defined Exception
+200727JP2U44,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029882
+200730IZ0E33,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084473and the payee flag is :PUser-Defined Exception
+200730IZ3F11,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029866
+200729MI1952,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084377and the payee flag is :PUser-Defined Exception
+200729JP1867,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029813
+200729ZI0E52,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029840
+200803JP0425,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084443and the payee flag is :PUser-Defined Exception
+200729IZ3000,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084379and the payee flag is :PUser-Defined Exception
+200729JP1E80,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029857
+200729JP2U02,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029859
+200811JP2P91,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084940and the payee flag is :PUser-Defined Exception
+200729JP2X15,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084443and the payee flag is :PUser-Defined Exception
+200729JP1E10,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084455and the payee flag is :PUser-Defined Exception
+200729JP2Q09,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084385and the payee flag is :PUser-Defined Exception
+200729M2E842,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084409and the payee flag is :PUser-Defined Exception
+200729JP2U18,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084445and the payee flag is :PUser-Defined Exception
+200729IZ4H57,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029820
+200729JP0041,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029839
+200731IZ2307,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029866
+200729JP2Q44,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084453and the payee flag is :PUser-Defined Exception
+200729JP1F74,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084405and the payee flag is :PUser-Defined Exception
+200729JP1F67,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029842
+200731M2FK13,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029872
+200729JP1B29,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084496and the payee flag is :PUser-Defined Exception
+200729MI1B58,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084381and the payee flag is :PUser-Defined Exception
+200730IZ3E47,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084459and the payee flag is :PUser-Defined Exception
+200730JP1842,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029887
+200729JP0143,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084449and the payee flag is :PUser-Defined Exception
+200803JP0424,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084443and the payee flag is :PUser-Defined Exception
+200729JP1D22,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084437and the payee flag is :PUser-Defined Exception
+200729IZ2Z71,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029812
+200730JP2P97,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084510and the payee flag is :PUser-Defined Exception
+200730JP2Q14,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084485and the payee flag is :PUser-Defined Exception
+200729JP2T35,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029817
+200810JP1E62,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084614and the payee flag is :PUser-Defined Exception
+200729MI1B81,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084393and the payee flag is :PUser-Defined Exception
+200729JP2T88,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084413and the payee flag is :PUser-Defined Exception
+200729JP1B00,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029843
+200729IZ2Z75,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084391and the payee flag is :PUser-Defined Exception
+200729JP0118,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029846
+200729IZ3021,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084399and the payee flag is :PUser-Defined Exception
+200730MI0F93,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084461and the payee flag is :PUser-Defined Exception
+200731M2FK37,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029872
+200729IZ2Z72,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029812
+200730IZ2048,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029861
+200811JP2U42,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084934and the payee flag is :PUser-Defined Exception
+2.0071E+11,4,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :HP554146702and the payee flag is :PUser-Defined Exception
+200729JP1868,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029813
+200730IZ0E22,1,9/9/2020 0:00,Misc,Could not find provider state for provider number: 20029869
+200729JP2S74,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084419and the payee flag is :PUser-Defined Exception
+200731JP1878,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084435and the payee flag is :PUser-Defined Exception
+200729JP1E84,1,9/9/2020 0:00,Misc,Error getting vendor details for AE Headers for payee :10084389and the payee flag is :PUser-Defined Exception
