@@ -1,0 +1,9 @@
+Zone,Description,MinTempRange
+2,Climate Zone 2,-50 to -40 degF
+3,Climate Zone 3,-40 to -30 degF
+4,Climate Zone 4,-30 to -20 degF
+5,Climate Zone 5,-20 to -10 degF
+6,Climate Zone 6,-10 to 0 degF
+7,Climate Zone 7,0 to 10 degF
+3-5,Climate Zones 3-5,-40 to -10 degF
+Annual,All Zones,Any Temp
