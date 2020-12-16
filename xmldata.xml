@@ -6,6 +6,7 @@
       <ContactName>Howard Snyder</ContactName>  
       <ContactTitle>Marketing Manager</ContactTitle>  
       <Phone>(503) 555-7555</Phone>  
+      <Fax>(503) 555-2376</Fax>  
       <FullAddress>  
         <Address>2732 Baker Blvd.</Address>  
         <City>Eugene</City>  
@@ -46,7 +47,8 @@
       <CompanyName>Let's Stop N Shop</CompanyName>  
       <ContactName>Jaime Yorres</ContactName>  
       <ContactTitle>Owner</ContactTitle>  
-      <Phone>(415) 555-5938</Phone>  
+      <Phone>(415) 555-5938</Phone> 
+      <Fax>(503) 555-2376</Fax>   
       <FullAddress>  
         <Address>87 Polk St. Suite 5</Address>  
         <City>San Francisco</City>  
